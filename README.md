@@ -12,7 +12,7 @@ If you obtain or plan to obtain any of our data or codes from this GitHub reposi
 then let your citation be as follows: "Oluwagbemi O.O et al., (2025). JASPEX: Java-Extended and Parameter-Enhanced Anopheles Spatially Explicit Multi-Regional Model of Climate Change Study on Mosquitoes for Malaria Control."
 
 
-Dr. Olugbenga Oluwagbemi
+Contact Dr. Olugbenga Oluwagbemi via this email: olugbenga.oluwagbemi@fulbrightmail.org for the complete citation information.
 
 
 Other notes:
