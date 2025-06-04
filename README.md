@@ -8,7 +8,7 @@ This GitHub project data also contains processed weather collection data for the
 This repository also contains codes used for processing the data and formatting the data into an appropriate and suitable format for the JASPEX model to effectively absorb and process.
 
 If you obtain or plan to obtain any of our data or codes from this GitHub repository, 
-then let your citation be as follows: "Oluwagbemi O.O et al., JASPEX: Java-Extended and Parameter-Enhanced Anopheles Spatially Explicit Multi-Regional Model on Mosquitoes for Malaria Control."
+then let your citation be as follows: "Oluwagbemi O.O et al., JASPEX: Java-Extended and Parameter-Enhanced Anopheles Spatially Explicit Multi-Regional Model on Anopheles Mosquitoes for Malaria Control."
 
 
 Contact Dr. Olugbenga Oluwagbemi via this email: olugbenga.oluwagbemi@fulbrightmail.org for the complete citation information.
